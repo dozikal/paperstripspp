@@ -115,5 +115,4 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: dozikal@gmail.com</li>
-          
-        </ul>
+</ul>
